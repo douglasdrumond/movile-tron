@@ -1,4 +1,4 @@
-(ns movile-tron.bot
+(ns movile-tron.badbubble-bot
   (:use [movile-tron.core :only [battle]])) ;  :reload))
 
 
